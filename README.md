@@ -1,2 +1,2 @@
-# NLP
-course taught in Hebrew University 
+# NLP project #1
+As taught in Hebrew University 
